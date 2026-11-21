@@ -1,0 +1,18 @@
+# Instagram bot ayarları. Değiştirip kaydet; bot bir sonraki açılışta okur.
+# Tüm süreler SANİYE cinsindendir. Bot 'en az' ile 'en fazla' arasında
+# rastgele bir süre bekler. İkisini eşit yaparsan hep aynı süre bekler.
+
+# Her takipçiden çıkarma / geri takip arasındaki bekleme
+bekleme_en_az_saniye = 10
+bekleme_en_fazla_saniye = 10
+
+# Belirli sayıda işlemden sonra verilen uzun mola
+mola_kac_islemde_bir = 10
+mola_en_az_saniye = 300
+mola_en_fazla_saniye = 600
+
+# Gece modunda bir gecede en fazla kaç kişi çıkarılsın
+gece_en_fazla_islem = 300
+
+# Menüden (2 / 3) tek seferde önerilen kişi sayısı
+menu_tek_seferde_islem = 30
